@@ -1,0 +1,126 @@
+:root { 
+  --alabaster: #fafafa;
+  --black: #000000;
+  --chicago: #575858;
+  --eucalyptus: #248d52;
+  --forest-green: #248d32;
+  --silver: #bfbfbf;
+  --stack: #8b8c8c;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 32px;
+  --font-size-xxxxl: 46px;
+ 
+  --font-family-manrope: "Manrope", Helvetica;
+  --font-family-russo_one: "Russo One", Helvetica;
+}
+.manrope-normal-chicago-16px {
+  color: var(--chicago);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.russoone-normal-eucalyptus-46px {
+  color: var(--eucalyptus);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-semi-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.manrope-normal-silver-16px {
+  color: var(--silver);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-normal-stack-16px {
+  color: var(--stack);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-extra-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.manrope-bold-eucalyptus-16px {
+  color: var(--eucalyptus);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.russoone-normal-black-46px {
+  color: var(--black);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+}
+
+.manrope-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-1px-eucalyptus {
+  border: 1px solid var(--eucalyptus);
+}

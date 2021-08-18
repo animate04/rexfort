@@ -1,0 +1,15 @@
+.frame-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 9082px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.home-service {
+  height: 9081px;
+  margin-left: -300px;
+  object-fit: cover;
+  width: 2220px;
+}
+

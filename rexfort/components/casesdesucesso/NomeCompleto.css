@@ -1,0 +1,54 @@
+.nome-completo-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 86px;
+  width: 605px;
+}
+
+.nome-completo-3 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 2.1px;
+  width: 136px;
+}
+
+.overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 60px;
+  margin-top: 4px;
+  min-width: 605px;
+  padding: 13px 29.4px;
+}
+
+.nome-sobrenome {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 16px;
+  width: 152px;
+}
+
+.nome-completo-2.nome-completo-1,
+.nome-completo-2.nome-completo-1-1 {
+  margin-top: 25px;
+}
+
+.nome-completo-2.nome-completo-1-1 .nome-completo-3 {
+  width: 74px;
+}
+
+.nome-completo-2.nome-completo-1-1 .nome-sobrenome {
+  width: 154px;
+}
+
+.nome-completo-2.nome-completo-1 .nome-completo-3 {
+  width: 43px;
+}
+
+.nome-completo-2.nome-completo-1 .nome-sobrenome {
+  width: 162px;
+}
+

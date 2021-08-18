@@ -1,0 +1,66 @@
+.name-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 76.47px;
+  margin-top: 21px;
+  min-height: 117px;
+  width: 255px;
+}
+
+.overlap-group1-12 {
+  height: 70px;
+  margin-top: -1px;
+  position: relative;
+  width: 255px;
+}
+
+.text-13 {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 46px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.under {
+  height: 50px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 255px;
+}
+
+.seta-2 {
+  background-image: url(/img/vector-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 32px;
+  margin-top: 16px;
+  width: 46px;
+}
+
+.name-3.name-4 {
+  margin-right: 107.47px;
+  margin-top: 33px;
+}
+
+.name-3.name-4 .text-13 {
+  width: 216px;
+}
+
+.name-3.name-5 {
+  margin-right: 82.47px;
+  margin-top: 5px;
+}
+
+.name-3.name-5 .text-13 {
+  width: 241px;
+}
+
